@@ -8,7 +8,7 @@
 ![ ](https://img.shields.io/badge/Format-.txt-blue.svg?style=plastic)
 
 Facial Attribute Textual Descriptions 📃 for  Flickr-Faces-HQ Dataset (FFHQ) 👸.
-<div align="center"><img src=./Pic/Overview.svg></div>
+<div align="center"><img src=./Pic/Overview.png></div>
 
 ## 📚Text-to-Image Datasets
 ### Text-to-X Datasets
