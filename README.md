@@ -53,9 +53,9 @@ In this study, we explore terminology in the human facial to **manually annotate
 
 | Content | Size | Files | Format | Details
 | :--- |  :----:  |  :----: | :----: | :----------
-| FFHQ-Text | To be update | 1,524 | | Main Folder
+| FFHQ-Text | - | 1,524 | | Main Folder
 | &boxvr;&nbsp; Image | 0.97 GB | 760 | PNG | Female images from FFHQ of size 1024&times;1024
-| &boxvr;&nbsp; Text | To be update | 760 | TXT | 9 descriptions for each selected facial image in FFHQ
+| &boxvr;&nbsp; Text | 766 KB | 760 | TXT | 9 descriptions for each selected facial image in FFHQ
 | &boxvr;&nbsp; Train | 12 KB | 1 | PKL | Filenames of training images
 | &boxvr;&nbsp; Test| 6 KB | 1 | PKL | Filenames of testing images
 | &boxvr;&nbsp; bounding_boxes| 21 KB | 1 | TXT | Determine the location and orientation of each face 
@@ -120,7 +120,7 @@ If you find this dataset helpful for your research, please cite it as below:
   title={Generative Adversarial Network for Text-to-Face Synthesis and Manipulation with Pretrained BERT Model},
   author={Zhou, Yutong and Shimada, Nobutaka},
   booktitle={2021 16th IEEE International Conference on Automatic Face and Gesture Recognition (FG 2021)},
-  year={2021},
+  year={2021}
 }
 
 @inproceedings{zhou2021generative,
