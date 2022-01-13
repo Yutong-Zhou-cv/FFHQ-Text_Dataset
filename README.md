@@ -95,7 +95,7 @@ The individual images were published in Flickr by their respective authors under
 
 The TXT metadata is made available under Creative Commons BY-NC-SA 4.0 license by NVIDIA Corporation.
 
-For other instructions, please see the privacy section of the [original FFHQ dataset]() for more details.
+For other instructions, please see the privacy section of the [original FFHQ dataset](https://github.com/NVlabs/ffhq-dataset) for more details.
 
 **🎯 Terms of Use**
 
