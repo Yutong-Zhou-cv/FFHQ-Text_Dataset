@@ -118,6 +118,7 @@ If you find this dataset helpful for your research, please cite it as below:
   title={Generative Adversarial Network for Text-to-Face Synthesis and Manipulation with Pretrained BERT Model},
   author={Zhou, Yutong and Shimada, Nobutaka},
   booktitle={2021 16th IEEE International Conference on Automatic Face and Gesture Recognition (FG 2021)},
+  pages={01--08},
   year={2021}
 }
 
