@@ -65,7 +65,7 @@ In this study, we explore terminology in the human facial to **manually annotate
 
 Please fill out the [FFHQ-Text Dataset Request Form](https://forms.gle/LDTURuZLyN5if3jN9).
 
-If it is not convenient to access Google, please [contact me📧](mailto:zhou@i.ci.ritsumei.ac.jp) directly with your real name, institution, and institution/organization email address. We will send you an email with the FFHQ-Text dataset within one week. 
+If it is not convenient to access Google, please [contact me📧](mailto:elizazhou96@gmail.com) directly with your real name, institution, and institution/organization email address. We will send you an email with the FFHQ-Text dataset within one week. 
 
 ## 🎉 Awesome Repo
 
